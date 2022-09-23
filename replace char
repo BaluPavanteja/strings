@@ -1,0 +1,6 @@
+#python
+string=input()
+c=input()
+n=input()
+new=string.replace(c,n)
+print("Modified string:\n",new)
